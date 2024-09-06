@@ -20,31 +20,32 @@ function carSubmit(car){
     carForm.addEventListener("submit", e=>{
         e.preventDefault()
         if(carText.value === car.name||carText.value === car.name.toLowerCase()||carText.value === car.name.toUpperCase()){
-            console.log(car.name)
             carText.value = ""
             makeCarCard(car)
         }
     })
 }
 
-
 function makeCarCard(car){
     const carCard = document.createElement("div")
     carCard.innerHTML = `<h1>${car.name}</h1><br><h3>${car.model}</h3><br><h4>${car.year}</h4><br><img src=${car.image} width = 400px height=200px><br><li>${car.price}</li><br><button id=car-button>show Information</button> <button id=delete-car>Delete</button>`
+   carCard.classList.add("carCard")
     carContainer.append(carCard)
     const infoButton = carCard.querySelector("#car-button")
     infoButton.addEventListener("click",()=>{
         showDeatilsOfCar(car, carCard)
+        infoButton.disabled = true;
     })
     const deleteBtn = carCard.querySelector("#delete-car");
     deleteBtn.addEventListener("click", ()=>{
-        carCard.innerHTML = ""
+        carCard.innerHTML = "";
     })
 }
 
 function showDeatilsOfCar(car,carCard){
- const p = document.createElement("p")
+const p = document.createElement("p")
  p.classList.add("p")
  p.innerHTML = car.details
 carCard.appendChild(p)
 }
+
