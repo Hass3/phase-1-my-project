@@ -1,0 +1,59 @@
+{
+    "Cars": [
+        {
+            "id": 1,
+            "name": "Toyota",
+            "model": "Supra",
+            "year": "1994",
+            "price": "50,000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxeFwvgOU-W4T8cCJDbGLYzs8mcwCDA6DfA&s",
+            "details": "Super Fast and Super Flashy"
+        },
+        {
+            "id": 2,
+            "name": "Nissan",
+            "model": "R34 Skyline",
+            "year": "1990",
+            "price": "100,000",
+            "image": "https://pitpad.com/2023/07/31/800hp-nissan-gt-r-widebody-is-the-nations-wildest-r32-skyline-build/23_ppk_feature_brad_nielson_gtr-1/",
+            "details": "Packed With 800hp this powerful beast has a 0-60 of 3.2 sec "
+        },
+        {
+            "id": 3,
+            "name": "Mazda",
+            "model": "Rx7",
+            "year": "1993",
+            "price": "70,000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUax3tZKogQwUkNqelXpW4ThIRkSAyXcR6Q&s",
+            "details": "This car has a Rotary engine and makes some loud Pops"
+        },
+        {
+            "id": 4,
+            "name": "Honda",
+            "model": "Nsx",
+            "year": "1990",
+            "price": "80,000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQxA5pB6IPu5iLMrABoqptQgXL-dmBQKO3g&s",
+            "details": "This old classic gets all the folks reiled up"
+        },
+        {
+            "id": 5,
+            "name": "BMW",
+            "model": "E60 M3",
+            "year": "1990",
+            "price": "65,000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6w4ULD___TpZyPIaCEtOD0DErxwtgQ47gw&s",
+            "details": "Makes an ultimate Drift Car"
+        },
+        {
+            "id": 6,
+            "name": "Maserati",
+            "model": "quattroporte gts",
+            "year": "2014",
+            "price": "160,000",
+            "image": "https://i.ytimg.com/vi/GP4WHfVeeXQ/maxresdefault.jpg",
+            "details": "This Beast has 530 hp and After a tune up has 675hp. Very Quick For A Luxury Car "
+        }
+
+    ]
+}

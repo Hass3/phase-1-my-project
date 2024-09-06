@@ -1,0 +1,22 @@
+body{
+    background-color:gainsboro;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkred;
+}
+h3{
+    font-size: 30px;
+}
+#car-text{
+    width: 300px;;
+}
+.p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+}
+
+
