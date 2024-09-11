@@ -20,6 +20,12 @@ h3{
 }
 .carCard{
     width: 500px;
-    
-}
 
+}
+.deleteBtn{
+    color: darkblue;
+}
+.filterDiv{
+    width: 300px;
+   float: right;
+}

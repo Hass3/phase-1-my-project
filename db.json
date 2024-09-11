@@ -5,7 +5,7 @@
             "name": "Toyota",
             "model": "Supra",
             "year": "1994",
-            "price": "50,000",
+            "price": "50000",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxeFwvgOU-W4T8cCJDbGLYzs8mcwCDA6DfA&s",
             "details": "This Toyota Supra engine is rated at 321 horsepower and 315 lb-ft of torque. If The car is tunned this The sound of This Car may likley pop your ears off "
         },
@@ -14,7 +14,7 @@
             "name": "Nissan",
             "model": "R34 Skyline",
             "year": "1990",
-            "price": "100,000",
+            "price": "100000",
             "image": "https://pitpad.com/2023/07/31/800hp-nissan-gt-r-widebody-is-the-nations-wildest-r32-skyline-build/23_ppk_feature_brad_nielson_gtr-1/",
             "details": "Packed With 800hp this powerful beast has a 0-60 of 3.2 sec "
         },
@@ -23,7 +23,7 @@
             "name": "Mazda",
             "model": "Rx7",
             "year": "1993",
-            "price": "70,000",
+            "price": "70000",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyUax3tZKogQwUkNqelXpW4ThIRkSAyXcR6Q&s",
             "details": "The 1996 Mazda RX-7 is a sports car with a rotary engine, front engine, and rear-wheel drive.This car has a Rotary engine and makes some loud Pops"
         },
@@ -32,7 +32,7 @@
             "name": "Honda",
             "model": "Nsx",
             "year": "1990",
-            "price": "80,000",
+            "price": "80000",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQxA5pB6IPu5iLMrABoqptQgXL-dmBQKO3g&s",
             "details": "Combined with a mid-mounted V6 engine 3.0 litres from launch, 3.2 litres from 1997 the NSX covered the 0-60mph dash in 5.7 seconds and went on to a 168mph top speed both a match for the Ferrari 348"
         },
@@ -41,7 +41,7 @@
             "name": "BMW",
             "model": "E60 M3",
             "year": "1990",
-            "price": "65,000",
+            "price": "65000",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6w4ULD___TpZyPIaCEtOD0DErxwtgQ47gw&s",
             "details": "The M3 E30 has a 200 horsepower engine that reaches 100 km/h in 6.7 seconds and has a top speed of 235 km/h. Makes an ultimate Drift Car"
         },
@@ -50,7 +50,7 @@
             "name": "Maserati",
             "model": "quattroporte gts",
             "year": "2014",
-            "price": "160,000",
+            "price": "160000",
             "image": "https://i.ytimg.com/vi/GP4WHfVeeXQ/maxresdefault.jpg",
             "details": "This Beast has 530 hp and After a tune up has 675hp. Very Quick For A Luxury Car "
         }
