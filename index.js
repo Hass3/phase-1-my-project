@@ -57,6 +57,7 @@ function showDeatilsOfCar(car,carCard){
     p.innerHTML = car.details;
     carCard.appendChild(p);
 }
+
 function filterBtn(){
     const filterBtn = document.createElement("button");
     filterBtn.textContent = "show cars Less then 90,000"
@@ -64,7 +65,7 @@ function filterBtn(){
     filterBtn.addEventListener("click", ()=>{  //filterButton
     filterBtn.disabled = true
     const filteredDiv = document.createElement("div") ;  
-    filteredDiv.classList.add(".filterDiv");
+    filteredDiv.classList.add("filterDiv");
     carContainer.appendChild(filteredDiv)
     const filteredCars = carArray.filter(car => parseFloat(car.price) <= 90000)
     filteredCars.forEach(car=> {
@@ -80,15 +81,8 @@ function filterBtn(){
         filterBtn.disabled = false
     })
     })
-    //create a button that is at the top of the carContainer Div
-    //write an if statement that if the car is 90,000 or more create a div on the right of the page or bottom or clear the container div 
-    // inside that div have a little ul list that lists all the cars that are 90,000 or more
-    //also add a little delete button "make a delete function so we dont use repititive code."
-
 }
 
-
-
-function del(card){
-    card.innerHTML = "";
+function del(div){
+    div.innerHTML = "";
 }
