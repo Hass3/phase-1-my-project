@@ -26,6 +26,7 @@ h3{
     color: darkblue;
 }
 .filterDiv{
-    width: 300px;
+    width: 200px;
     float: right;
+    background-color: silver;
 }
