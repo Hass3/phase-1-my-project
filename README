@@ -1,0 +1,15 @@
+Welcome to My Superior Auction Website
+
+This web application allows the user to search for any of the cars listed on the top of the page. 
+This web apliaction uses three event listeners DOMContentLoaded, Submit, and click.
+once the user searches for the specific car a car card with the information and 
+two buttons at the button of the card show up. The first button "Show Description"
+when clicked shows the cars description and the second is a delete button which deletes the
+car card from the DOM.
+Also under the text box I added a little filter button. This button when clicked creates 
+a small div on the right side of the page which shows a list of all the cars that are under 
+90,000 dollars. 
+
+Below are the steps to install the repository 
+* In your termianl, please type git clone git@github.com:Hass3/phase-1-my-project.git
+*After that, open up the Visual Studio Code app with typing "code ." to see the code.
